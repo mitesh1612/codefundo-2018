@@ -10,7 +10,7 @@ We are planning to create a unified platform that can be used by volunteers as w
 
 - [ ] A simple center to collect all kinds of helps (Donations, Money etc.)
 - [ ] Use weather reports and past incidents (using crowdsourced data) to predict disasters and warnings in nearby areas using Machine Learning.
-- [ ] A platform where one can get reliable information and avoid hoaxes and rumours. Here will try to predict whehter the news is fake or not.
+- [ ] A platform where one can get reliable information and avoid hoaxes and rumours. Here we will try to predict whether the news is fake or not using a Machine Learning Based classifier.
 - [ ] Create action plans for deploying resources using optimal resource allocation and distribution with the help of Machine Learning that uses contextual information.
  --- 
 
